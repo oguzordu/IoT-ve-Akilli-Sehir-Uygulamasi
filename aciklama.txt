@@ -1,0 +1,4 @@
+- simulated_device.py: Cihazdan veri üretip AWS IoT Core'a gönderir.
+- lambda_function.py: IoT Core'dan gelen veriyi DynamoDB'ye yazar.
+- SmartCityData: DynamoDB tablosu, veriler burada saklanır.
+- Tüm kod ve ayarlar github reposunda mevcuttur.
